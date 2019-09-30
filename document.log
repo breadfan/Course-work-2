@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.2)  18 MAY 2019 00:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.2)  18 SEP 2019 13:54
 entering extended mode
 **./document.tex
 (document.tex
@@ -727,59 +727,80 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--113
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 125--128
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
 
  []
 
 [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 156--158
-
+Overfull \hbox (45.56577pt too wide) in paragraph at lines 143--144
+\T2A/cmr/m/n/14.4 диг-мы объектно-ориентированного про-грам-ми-ро-ва-ния: был с
+о-здан класс "Polynomial"для
  []
 
-
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--166
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
-[6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Overfull \hbox (29.39687pt too wide) in paragraph at lines 198--199
+[]\T2A/cmr/m/n/14.4 У.Питерсон, Э.Уэлдон. Ко-ды, ис-прав-ля-ю-щие ошиб-ки[Текст
+]/У.Питерсон, Э.Уэлдон;
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+[9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
  (document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
  ) 
 Here is how much of TeX's memory you used:
- 11901 strings out of 492970
- 166839 string characters out of 3126594
- 257052 words of memory out of 3000000
- 15692 multiletter control sequences out of 15000+200000
+ 11904 strings out of 492970
+ 166866 string characters out of 3126594
+ 258052 words of memory out of 3000000
+ 15693 multiletter control sequences out of 15000+200000
  9127 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,6n,35p,839b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,5n,35p,869b,351s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kizee\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\la
 ti1440.pk> <C:\Users\kizee\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\d
 pi600\labx1440.pk> <C:\Users\kizee\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
@@ -792,9 +813,9 @@ izee/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Users/kizee/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmr12.pfb><C:/Users/kizee/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmsy10.pfb>
-Output written on document.pdf (7 pages, 159140 bytes).
+Output written on document.pdf (9 pages, 168137 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
